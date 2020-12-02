@@ -14,10 +14,3 @@ SELECT name, population FROM world
 SELECT name, area FROM world
   WHERE area BETWEEN 200000 AND 250000;
 
--- QUIZ
---1
-SELECT name, population
-  FROM world
- WHERE population BETWEEN 1000000 AND 1250000;
-
---2
